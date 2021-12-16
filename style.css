@@ -1,0 +1,105 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.button-add{
+    text-align: center;
+    padding: 20px;
+}
+.button-delete{
+    text-align: center;
+    padding: 20px;
+    margin-top: -30px;
+}
+#button1,#button2,#button3,#button4,#remove1,#remove2,#remove3,#remove4{
+width: 100px;
+padding: 2px;
+margin: 4px;
+border: 3px solid black;
+color: white;
+}
+#button1{
+    background: blue;
+}
+#button1:hover{
+    background-color: darkblue;
+}
+#button2{
+    background-color: red;
+}
+#button2:hover{
+    background-color: darkred;
+}
+#button3{
+    background-color: green;
+}
+#button3:hover{
+    background-color: darkgreen;
+}
+#button4{
+    background-color: orange;
+}
+#button4:hover{
+    background-color: darkorange;
+}
+#remove1{
+    background: blue;
+}
+#remove1:hover{
+    background-color: darkblue;
+}
+#remove2{
+    background-color: red;
+}
+#remove2:hover{
+    background-color: darkred;
+}
+#remove3{
+    background-color: green;
+}
+#remove3:hover{
+    background-color: darkgreen;
+}
+#remove4{
+    background-color: orange;
+}
+#remove4:hover{
+    background-color: darkorange;
+}
+.boxes{
+    padding: 20px;
+    margin: 20px;
+    
+}
+.div1{
+    background-color: blue;
+    width: 150px;
+    height: 100px;
+    float: left;
+    padding: 2px;
+    margin: 2px;
+}
+.div2{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding: 2px;
+    margin: 2px;
+}
+.div3{
+    background-color: green;
+    width: 90px;
+    height: 100px;
+    float: left;
+    padding: 2px;
+    margin: 2px;
+}
+.div4{
+    background-color: orange;
+    width: 60px;
+    height: 100px;
+    float: left;
+    padding: 2px;
+    margin: 2px;
+}
